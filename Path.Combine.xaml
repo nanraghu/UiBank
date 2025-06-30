@@ -106,7 +106,7 @@
         <Variable x:TypeArguments="x:String" Name="StringPath" />
         <Variable x:TypeArguments="x:String" Name="Filepath" />
         <Variable x:TypeArguments="ui:Image" Name="SS" />
-        <Variable x:TypeArguments="x:String" Name="Pathcom1" />
+        <Variable x:TypeArguments="x:String" Name="Pathcomb" />
       </Sequence.Variables>
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -123,7 +123,7 @@
       </Assign>
       <Assign sap:VirtualizedContainerService.HintSize="434,117.33333333333333" sap2010:WorkflowViewState.IdRef="Assign_4">
         <Assign.To>
-          <OutArgument x:TypeArguments="x:String">[Pathcom1]</OutArgument>
+          <OutArgument x:TypeArguments="x:String">[Pathcomb]</OutArgument>
         </Assign.To>
         <Assign.Value>
           <InArgument x:TypeArguments="x:String">[Path.Combine("C:\Users\Nancy908276\OneDrive - Majesco\Documents\UiPath\June16th2025","OutputFromAPI.xlsx")]</InArgument>
