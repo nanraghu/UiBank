@@ -103,6 +103,7 @@
     </sap:WorkflowViewStateService.ViewState>
     <Sequence sap:VirtualizedContainerService.HintSize="468,656.6666666666666" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <Sequence.Variables>
+        <Variable x:TypeArguments="x:String" Name="Newvar" />
         <Variable x:TypeArguments="x:String" Name="StringPath" />
         <Variable x:TypeArguments="x:String" Name="Filepath" />
         <Variable x:TypeArguments="ui:Image" Name="SS" />
