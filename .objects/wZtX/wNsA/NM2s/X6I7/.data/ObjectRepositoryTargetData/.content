@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6NagIFVPo0G9lUpavIO6Hw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result/6861606a8da0bc5056af5843/11/true" CVScreenId="c30748ac-6b4b-4dc1-8841-54241d1242c5" CvElementArea="654, 836, 324, 70" CvTextArea="686, 858, 259, 27" CvTextArgument="Apply For Another Loan" CvType="Button" DesignTimeRectangle="657, 837, 319, 67" ElementType="Button" FullSelectorArgument="&lt;webctrl id='applyForNewLoanButton' tag='BUTTON' /&gt;" Guid="eb75bd2b-9f7b-4354-ac5a-bc82ad3eeb51" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan result' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c30748ac-6b4b-4dc1-8841-54241d1242c5" DesignTimeRectangle="1016, 837, 287, 67" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='loanHomePage' tag='BUTTON' type='submit' class='btn form-button btn-black btn-xl' aaname='loanHomePage' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Back To Loan Center' /&gt;" Guid="847f76ce-6983-4088-9914-447e956f9913" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d193c3167c4dce8cd8eedf4d31223a5c.png" xmlns="">0xsChQngs4UC8wD5tfGWAOw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

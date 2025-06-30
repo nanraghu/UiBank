@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EGuYT_d750KLx8ehurzt9Q" Reference="bTbhruDnvESrYS0JnP14zQ/4sCK9UvKQk6l7DaKQlMIpg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result//0/false" DesignTimeRectangle="624, 848, 354, 74" FullSelectorArgument="&lt;webctrl id='applyForNewLoanButton' tag='BUTTON' aaname='applyForNewLoanButton' /&gt;" Guid="1292fbd6-c936-478a-a220-dadb4b2f8f59" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Loan result' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="b80a580a94a16df9011c371077cd51d2.png" xmlns="">0M1irzSG-P0icKdH-BzGChQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

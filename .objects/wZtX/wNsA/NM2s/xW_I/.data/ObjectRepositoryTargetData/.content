@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="B8zhYzySB0CXL9Pxuk2mzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result/6861606a8da0bc5056af5843/11/true" CVScreenId="23a0f3dd-b0ac-4592-978d-d5483cbc6b24" DesignTimeRectangle="381, 512, 1157, 78" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' aaname=' Congrats! ' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='text-center text-white header' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="e2af41c9-cadc-453e-bf56-6a85fae9b622" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan result' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="d7151f8be760ce188a7518cdcf5db2fb.png" xmlns="">0K4XW5C0mJkSunLP8WnLOQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "AccountsProductsLoansCr…",
+  "Type": "Element",
+  "Id": "LpWnJSkYE0Kbv9WyfGBp3g",
+  "Reference": "bTbhruDnvESrYS0JnP14zQ/LpWnJSkYE0Kbv9WyfGBp3g",
+  "ParentRef": "bTbhruDnvESrYS0JnP14zQ/FU6iqPL1R0SIBjXsPLxqDg",
+  "Created": "2025-06-29T21:44:39.2144003Z",
+  "Updated": "2025-06-29T21:44:39.2144003Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
