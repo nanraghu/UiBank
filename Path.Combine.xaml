@@ -121,7 +121,7 @@
           <InArgument x:TypeArguments="x:String">[Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.CommonDocuments),"UiPath","Logs")]</InArgument>
         </Assign.Value>
       </Assign>
-      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="434,176.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[Filepath+&quot;5&quot;]" />
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="434,176.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[Filepath+&quot;10&quot;]" />
       <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="434,57.333333333333336" sap2010:WorkflowViewState.IdRef="CommentOut_3">
         <ui:CommentOut.Body>
           <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,270" sap2010:WorkflowViewState.IdRef="Sequence_5">
